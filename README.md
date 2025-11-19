@@ -14,9 +14,7 @@ A modern, user-friendly desktop weather application built with Python and Tkinte
 - 🆓 **Free API** - Uses Open-Meteo API (no API key required)
 - 🖥️ **Cross-Platform** - Works on Windows, macOS, and Linux
 
-## Screenshots
 
-[Add screenshots of your app here]
 
 ## Requirements
 
